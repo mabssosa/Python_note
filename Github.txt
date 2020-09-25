@@ -1,0 +1,13 @@
+gitbash
+
+git init
+git remote add origin https://주소
+
+## PULL ##
+git pull origin master
+
+## PUSH ##
+git status   -> tracking/sync 확인
+git add .   -> Add all untracked files
+git commit -m "comment?"
+git push origin master
